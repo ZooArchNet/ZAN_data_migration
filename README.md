@@ -1,2 +1,2 @@
-# ZAN_data_processing
-data processing steps for migration
+# ZooArchNet Data Processing Scripts
+Hub for data wrangling and processing scripts for ZooArch data
